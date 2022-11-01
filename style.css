@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: brown;
+    color: white;
+}
+h2,h1{
+    padding: 10%;
+}
+input,button{
+    padding: 5px;
+    font-size: 20px;
+}
+.input_select{
+    background-color: gainsboro;
+    text-align: center;
+}
+.input_no_select{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
